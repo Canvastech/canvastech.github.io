@@ -39,6 +39,8 @@
 
 .change-background{
 	background-image: url('../img/image2.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
 .text-color-scheme{
@@ -51,6 +53,7 @@
 	margin-top: 200px;
 	border-radius: 2px;
 	text-align: center;
+	margin-bottom: 300px;
 }
 
 .hr-style{
