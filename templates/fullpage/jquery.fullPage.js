@@ -24,7 +24,7 @@
 
 			//scrolling
 			css3: true,
-			scrollingSpeed: 600,
+			scrollingSpeed: 650,
 			autoScrolling: true,
 			fitToSection: true,
 			easing: 'easeInOutCubic',
