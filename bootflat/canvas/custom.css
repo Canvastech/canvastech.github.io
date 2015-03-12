@@ -12,5 +12,17 @@
 }
 
 .canvas-pricing-body{
-	background-color: #AAB2BD!important;
+	background-color: #6ca7af!important;
+}
+
+.canvas-pricing-active-body{
+	background-color: #59ABE3!important;
+}
+
+.canvas-pricing-active-title{
+	background-color: #26C281!important;
+}
+
+.canvas-pricing-active-foot{
+	background-color: #59ABE3!important;
 }
