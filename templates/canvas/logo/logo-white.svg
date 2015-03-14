@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-8.4796" y1="538.1296" x2="26.2142" y2="538.1296" gradientTransform="matrix(6.610848e-10 -14.7289 -0.9981 -4.495620e-11 593.8697 386.8052)">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	<stop  offset="4.481354e-02" style="stop-color:#FFFFFF;stop-opacity:8.962709e-02"/>
+	<stop  offset="0.5" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.6159" style="stop-color:#FCFCFC;stop-opacity:0.7681"/>
+	<stop  offset="0.7091" style="stop-color:#F2F2F2;stop-opacity:0.5819"/>
+	<stop  offset="0.7943" style="stop-color:#E1E1E2;stop-opacity:0.4115"/>
+	<stop  offset="0.8747" style="stop-color:#C9CACC;stop-opacity:0.2506"/>
+	<stop  offset="0.9512" style="stop-color:#ABACAF;stop-opacity:9.769541e-02"/>
+	<stop  offset="1" style="stop-color:#939598;stop-opacity:0"/>
+</linearGradient>
+<rect x="56.3" y="0.7" fill="url(#SVGID_1_)" width="1" height="511"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-8.4322" y1="139.1296" x2="26.2616" y2="139.1296" gradientTransform="matrix(6.610848e-10 -14.7289 -0.9981 -4.495620e-11 593.8697 386.8052)">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	<stop  offset="4.481354e-02" style="stop-color:#FFFFFF;stop-opacity:8.962709e-02"/>
+	<stop  offset="0.5" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.6159" style="stop-color:#FCFCFC;stop-opacity:0.7681"/>
+	<stop  offset="0.7091" style="stop-color:#F2F2F2;stop-opacity:0.5819"/>
+	<stop  offset="0.7943" style="stop-color:#E1E1E2;stop-opacity:0.4115"/>
+	<stop  offset="0.8747" style="stop-color:#C9CACC;stop-opacity:0.2506"/>
+	<stop  offset="0.9512" style="stop-color:#ABACAF;stop-opacity:9.769541e-02"/>
+	<stop  offset="1" style="stop-color:#939598;stop-opacity:0"/>
+</linearGradient>
+<rect x="454.5" fill="url(#SVGID_2_)" width="1" height="511"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-23.0996" y1="270.899" x2="11.5941" y2="270.899" gradientTransform="matrix(-14.7289 0 0 0.9981 171.1686 -213.2824)">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	<stop  offset="4.481354e-02" style="stop-color:#FFFFFF;stop-opacity:8.962709e-02"/>
+	<stop  offset="0.5" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.6159" style="stop-color:#FCFCFC;stop-opacity:0.7681"/>
+	<stop  offset="0.7091" style="stop-color:#F2F2F2;stop-opacity:0.5819"/>
+	<stop  offset="0.7943" style="stop-color:#E1E1E2;stop-opacity:0.4115"/>
+	<stop  offset="0.8747" style="stop-color:#C9CACC;stop-opacity:0.2506"/>
+	<stop  offset="0.9512" style="stop-color:#ABACAF;stop-opacity:9.769541e-02"/>
+	<stop  offset="1" style="stop-color:#939598;stop-opacity:0"/>
+</linearGradient>
+<rect x="0.4" y="56.6" fill="url(#SVGID_3_)" width="511" height="1"/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="-23.0996" y1="669.399" x2="11.5941" y2="669.399" gradientTransform="matrix(-14.7289 0 0 0.9981 171.1686 -213.2824)">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	<stop  offset="4.481354e-02" style="stop-color:#FFFFFF;stop-opacity:8.962709e-02"/>
+	<stop  offset="0.5" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.6159" style="stop-color:#FCFCFC;stop-opacity:0.7681"/>
+	<stop  offset="0.7091" style="stop-color:#F2F2F2;stop-opacity:0.5819"/>
+	<stop  offset="0.7943" style="stop-color:#E1E1E2;stop-opacity:0.4115"/>
+	<stop  offset="0.8747" style="stop-color:#C9CACC;stop-opacity:0.2506"/>
+	<stop  offset="0.9512" style="stop-color:#ABACAF;stop-opacity:9.769541e-02"/>
+	<stop  offset="1" style="stop-color:#939598;stop-opacity:0"/>
+</linearGradient>
+<rect x="0.4" y="454.3" fill="url(#SVGID_4_)" width="511" height="1"/>
+<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="-16.6615" y1="452.0625" x2="25.0463" y2="452.0625" gradientTransform="matrix(-12.2412 12.2412 0.5871 0.5871 41.885 -60.5049)">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	<stop  offset="4.481354e-02" style="stop-color:#FFFFFF;stop-opacity:8.962709e-02"/>
+	<stop  offset="0.5" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.6159" style="stop-color:#FCFCFC;stop-opacity:0.7681"/>
+	<stop  offset="0.7091" style="stop-color:#F2F2F2;stop-opacity:0.5819"/>
+	<stop  offset="0.7943" style="stop-color:#E1E1E2;stop-opacity:0.4115"/>
+	<stop  offset="0.8747" style="stop-color:#C9CACC;stop-opacity:0.2506"/>
+	<stop  offset="0.9512" style="stop-color:#ABACAF;stop-opacity:9.769541e-02"/>
+	<stop  offset="1" style="stop-color:#939598;stop-opacity:0"/>
+</linearGradient>
+<polygon fill="url(#SVGID_5_)" points="1,511.8 511.6,1.3 510.9,0.6 0.3,511.1 "/>
+<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="-14.5326" y1="584.6266" x2="27.1792" y2="584.6266" gradientTransform="matrix(12.2412 12.2412 0.5871 -0.5871 -164.5616 522.1519)">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	<stop  offset="4.481354e-02" style="stop-color:#FFFFFF;stop-opacity:8.962709e-02"/>
+	<stop  offset="0.5" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.6159" style="stop-color:#FCFCFC;stop-opacity:0.7681"/>
+	<stop  offset="0.7091" style="stop-color:#F2F2F2;stop-opacity:0.5819"/>
+	<stop  offset="0.7943" style="stop-color:#E1E1E2;stop-opacity:0.4115"/>
+	<stop  offset="0.8747" style="stop-color:#C9CACC;stop-opacity:0.2506"/>
+	<stop  offset="0.9512" style="stop-color:#ABACAF;stop-opacity:9.769541e-02"/>
+	<stop  offset="1" style="stop-color:#939598;stop-opacity:0"/>
+</linearGradient>
+<polygon fill="url(#SVGID_6_)" points="511.7,511.3 1.1,0.7 0.4,1.4 511,512 "/>
+<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M396.5,397c-36.5,36.5-83.7,55.9-131.5,58.1
+	c-54,2.5-108.9-16.9-150.2-58.1c-77.7-77.7-77.7-203.9,0-281.7s203.9-77.7,281.7,0"/>
+</svg>
