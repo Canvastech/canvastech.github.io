@@ -11,7 +11,7 @@
 	width: 600px;
 	height: 100%;
 	padding: 100px 100px;
-	background: url('../images/splatter.png') no-repeat center;
+	background: url('../im ages/splatter.png') no-repeat center;
 	background-size: contain;
 	position: relative;
 	top: 50%;
@@ -28,7 +28,7 @@
 	line-height: 80px;
 	letter-spacing: 6px;
 	font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif;
-	color: rgb(255, 255, 255);
+	color: rgb(71, 71, 71);
 }
 
 .home > .center > .subtitle {
@@ -36,9 +36,11 @@
 	line-height: 50px;
 	letter-spacing: 6px;
 	font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif;
-	color: rgb(255, 255, 255);
+	color: rgb(71, 71, 71);
 }
 
 .home > .center > object {
-	opacity: 0.95;
+	opacity: 1;
+	width: 400px;
+	height: 400px;
 }
