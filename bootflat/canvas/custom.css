@@ -34,3 +34,16 @@
 .canvas-timeline-p{
 	color: #6C7A89!important;
 }
+
+.canvas-tabs{
+	background-color: #4D8FAC!important;
+}
+
+.canvas-timeline-header{
+	color: #6C7A89!important;
+	font-weight: 200!important;
+	font-size: 13pt!important;
+	margin-bottom: -1px!important;
+	padding-bottom: 2px!important;
+
+}
