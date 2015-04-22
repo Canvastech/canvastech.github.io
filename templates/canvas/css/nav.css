@@ -39,9 +39,9 @@
 
 .nav > .right > span > a {
   	text-decoration: none;
-  	color: rgb(51, 51, 51);
+  	color: white;
 }
 
 .nav > .right > span > a:hover {
-  	color: rgb(101, 101, 101);
+  	color: white;
 }

@@ -1,4 +1,6 @@
-
+.about {
+	background-color: lightblue;
+}
 
 .about > .center > .subtitle {
 	position: relative;
