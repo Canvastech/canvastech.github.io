@@ -1,8 +1,15 @@
 $(document).ready(function(){
 
-	$( "#brand" ).slideDown( "fast", function() {
+	$('#body').delay(400).fadeIn(800, function(){
 
-		$('#cardheader').slideDown(700, function(){});
-  	});
+		$("#brand").delay(300).slideDown( 700, function() {
+
+			$('#cardheader').slideDown(600, function(){});
+
+	  	});
+
+	});
+
+	
 
 })
