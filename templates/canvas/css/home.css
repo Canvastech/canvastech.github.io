@@ -1,0 +1,25 @@
+.home {
+	background-image: url("../images/background.jpg");
+}
+
+.home > .center > .title {
+	font-size: 80px;
+	line-height: 80px;
+	letter-spacing: 6px;
+	font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif;
+	color: white;
+}
+
+.home > .center > .subtitle {
+	font-size: 46px;
+	line-height: 50px;
+	letter-spacing: 6px;
+	font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif;
+	color: wite;
+}
+
+.home > .center > object {
+	opacity: 1;
+	width: 400px;
+	height: 400px;
+}

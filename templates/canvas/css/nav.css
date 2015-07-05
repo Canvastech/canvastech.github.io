@@ -1,0 +1,47 @@
+.nav {
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	background-color: rgba(255, 255, 255, 0.0);
+	height: 70px;
+	z-index: 100;
+}
+
+.nav > .side {
+	width: 50%;
+	height: 50px;
+	top: 10px;
+	position: absolute;
+	ine-height: 50px;
+}
+
+.nav > .left {
+	left: 10px;
+}
+
+.nav > .left > object {
+	height: 50px;
+	width: 50px;
+}
+
+.nav > .right {
+	right: 10px;
+}
+
+.nav > .right > span {
+  	line-height: 50px;
+  	font-size: 15px;
+  	font-family: 'HelveticaNeue-Thin', Helvetica, Arial, sans-serif;
+  	letter-spacing: 2px;
+  	float: right;
+}
+
+.nav > .right > span > a {
+  	text-decoration: none;
+  	color: white;
+}
+
+.nav > .right > span > a:hover {
+  	color: white;
+}

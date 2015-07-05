@@ -35,6 +35,20 @@
 	color: #6C7A89!important;
 }
 
+<<<<<<< HEAD
 .canvas-nav-link:hover{
 	background-color: black!important;
+=======
+.canvas-tabs{
+	background-color: #4D8FAC!important;
+}
+
+.canvas-timeline-header{
+	color: #6C7A89!important;
+	font-weight: 200!important;
+	font-size: 13pt!important;
+	margin-bottom: -1px!important;
+	padding-bottom: 2px!important;
+
+>>>>>>> 7f7d90001a045e8d9080e891fc9cc0b666278113
 }
