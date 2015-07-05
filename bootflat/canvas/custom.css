@@ -34,3 +34,7 @@
 .canvas-timeline-p{
 	color: #6C7A89!important;
 }
+
+.canvas-nav-link:hover{
+	background-color: black!important;
+}
