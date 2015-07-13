@@ -1,9 +1,10 @@
 .navbar{
-	padding-right: 250px;
-	padding-left: 250px;
+	padding-right: 100px;
+	padding-left: 100px;
 	background-color: #EF5350;
 	position: fixed;
 	width: 100%;
+	opacity: .95;
 }
 
 body{
@@ -19,7 +20,10 @@ body{
 	background-color: white;
 	border-radius: 4px;
 	box-shadow: 0px 0px 10px 1px #9E9E9E;
-	margin-bottom: 35px;
+	margin-bottom: 80px;
+	z-index: 0!important;
+	opacity: .97;
+
 }
 
 .card-header{
@@ -34,4 +38,27 @@ body{
 .card > div{
 	text-align: center;
 	font-size: 11pt;
+	height: 500px!important;
+	vertical-align: middle!important;
+	padding-top: 15%;
+	padding-bottom: 15%;
+	border: 1px solid black;
+
+}
+
+.card > div:first-child{
+	margin-top: -15%;
+}
+
+.masthead{
+	margin-top: 130px;
+	margin-bottom: 35px;
+}
+
+.background{
+	height: 100%!important;
+	width: 100%!important;
+	position: fixed;
+	background-position: cover;
+	background-repeat: no-repeat;
 }

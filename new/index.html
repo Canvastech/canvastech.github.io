@@ -12,7 +12,7 @@
 
 <body id="body" style="display:none">
 
-<nav class="navbar navbar-default">
+<nav class="navbar navbar-default" style="z-index:1000000">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -22,7 +22,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#" id="brand" style="display:none">Brand</a>
+      <a class="navbar-brand" href="#" id="brand" style="display:none">canvas.tech</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -34,22 +34,31 @@
         <button type="submit" class="btn btn-success">Submit</button>
       </form>-->
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Link</a></li>
+        <li><a href="#">Mission</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
 
-<div class="col-md-6 col-md-offset-3 c-container">
-	<div class="card">
-		<div class="card-header">
-			<h2 id="cardheader" style="display:none">canvas.tech</h2>
-			<h5 id="cardmeta">A personal online prescence</h5>
-		</div>
-		<hr>
+<div class="background" style="background-image:url('img/image1.jpg')">
+</div>
 
+<div class="col-md-6 col-md-offset-3 c-container masthead">
+	<div class="card-header">
+		<h2 id="cardheader">canvas.tech</h2>
+		<h5 id="cardmeta">Helping to create your personal online prescence</h5>
+	</div>
+
+	<br>
+
+	<center><button class="btn btn-success btn-lg">Start</button></center>
+</div>
+
+<div class="col-md-6 col-md-offset-3 c-container" style="z-index:0!Important">
+	<div class="card">
 		<div class="mission">
 			<h5>Mission</h5>
+			<hr>
 			<p>
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
