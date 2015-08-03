@@ -235,7 +235,7 @@ body .demo-blog {
   background-image: url('images/cover.jpg');
   background-size: cover;
   background-position: center -30px;
-  height: 300px!important;
+  background-repeat: no-repeat;
 }
 .demo-blog .shopping .mdl-card__media {
   background-image: url('images/shopping.jpg');

@@ -58,8 +58,8 @@
     }
     </style>
   </head>
-  <body>
-    <div class="demo-blog mdl-layout mdl-js-layout has-drawer is-upgraded">
+  <body id="body" style="display:none">
+    <div class="demo-blog mdl-layout mdl-js-layout has-drawer is-upgraded" id="content" style="margin-top:200px;opacity:.2">
       <main class="mdl-layout__content">
         <div class="demo-blog__posts mdl-grid">
           <div class="mdl-card coffee-pic mdl-cell mdl-cell--8-col">
@@ -75,16 +75,16 @@
             </div>
             <div class="mdl-card__supporting-text meta meta--fill mdl-color-text--grey-600">
               <div>
-                <strong><a href="mailto:canvas.tech.hel@gmail.com">Contact Us</a></strong>
+                <strong><a href="mailto:canvas.tech.help@gmail.com">Contact Us</a></strong>
               </div>
             </div>
           </div>
           <div class="mdl-card amazing mdl-cell mdl-cell--12-col">
             <div class="mdl-card__title mdl-color-text--grey-50">
-              <h3 class="quote">We are dedicated to empowering small businesses with a trully personalized online prescence</h3>
+              <h3 class="quote">We are dedicated to empowering small businesses with a truly personalized online prescence</h3>
             </div>
             <div class="mdl-card__supporting-text mdl-color-text--grey-600" style="font-size:10.7pt;font-weight:300!important">
-              At Canvas Tech, we make it our mission empower you with a personalized online prescence. In the Digital Age, a distinctive web presence can be just as - if not more - important than a physical location. We strive to collaborate with and include you in our creative process. We encourage you to reach out to us if you have any questions at the email or phone number above.
+              At Canvas Tech, we make it our mission to empower you with a personalized online prescence. In the Digital Age, a distinctive web presence can be just as - if not more - important than a physical location. We strive to include you in the creative process and like to think of the time that we spend together as a partnership.
             </div>
             <div class="mdl-card__supporting-text meta mdl-color-text--grey-600">
               <div>
@@ -98,7 +98,7 @@
               <h3>About Us</h3>
             </div>
             <div class="mdl-color-text--grey-700 mdl-card__supporting-text" style="width:97%!important; font-size:10.7pt;font-weight:300!important">
-              Canvas Tech is a small web design company located in the Greater Philadelphia Area that is partnered with The Business Center for Entrepreneurship. We employ an interactive creative process, that allows our customers to work in partnership with us while we craft their web site. We believe that in this manner, the client can achieve a web prescence that is beautiful and modern, but still theirs.
+              Canvas Tech is a small web design company located in the Greater Philadelphia Area that is partnered with The Business Center for Entrepreneurship. We employ an interactive creative process, that allows our customers to work in partnership with us while we craft their web site by hand. We believe that in this manner, the client can achieve a web prescence that is beautiful and modern yet still theirs.
             </div>
           </div>
           <!--<div class="mdl-card shopping mdl-cell mdl-cell--12-col">
@@ -147,5 +147,15 @@
         location.href = target;
       });
     });
+  </script>
+  <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $('#body').fadeIn(1000, function(){});
+      $('#content').delay(200).animate({
+        "margin-top": "0px",
+        opacity: "1"
+      }, 1200)
+    })
   </script>
 </html>
